@@ -6,21 +6,21 @@ title: Nelson Bighetti
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Master of Science Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Purdue University
+  url: https://www.purdue.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include machine learning and computer vision.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Data-Driven Computer Vision
+- Machine Learning
+- Vision + other Domain Emerging
 
 # Education to show in About widget
 education:
