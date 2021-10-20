@@ -28,7 +28,7 @@ education:
 
   - course: MS in Electrical and Computer Electrical 
     institution: Purdue University
-<!--     year:  -->
+#     year:
   - course: BS in Electrical Engineering 
     institution: King Saud University
     year: 2018
@@ -57,9 +57,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: static/uploads/Ahmad_Bin_Rabiah_Resume.pdf
+#- icon: cv
+#  icon_pack: ai
+#  link: static/uploads/Ahmad_Bin_Rabiah_Resume.pdf
 
 
 
