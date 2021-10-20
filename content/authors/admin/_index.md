@@ -28,7 +28,7 @@ education:
 
   - course: MS in Electrical and Computer Electrical 
     institution: Purdue University
-    year: 2023
+<!--     year:  -->
   - course: BS in Electrical Engineering 
     institution: King Saud University
     year: 2018
